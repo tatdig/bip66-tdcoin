@@ -6,9 +6,9 @@
     "bip66",
     "bitcoin"
   ],
-  "homepage": "https://github.com/bitcoinjs/bip66",
+  "homepage": "https://github.com/tatdig/bip66-tdcoin",
   "bugs": {
-    "url": "https://github.com/bitcoinjs/bip66/issues"
+    "url": "https://github.com/tatdig/bip66-tdcoin/issues"
   },
   "license": "MIT",
   "author": "Daniel Cousens",
@@ -18,7 +18,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitcoinjs/bip66.git"
+    "url": "https://github.com/tatdig/bip66-tdcoin.git"
   },
   "scripts": {
     "coverage": "nyc --check-coverage --branches 100 --functions 100 tape test/*.js",
